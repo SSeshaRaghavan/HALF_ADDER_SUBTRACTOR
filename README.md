@@ -35,6 +35,9 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
+![image](https://github.com/user-attachments/assets/28c210b0-1f44-48dc-ac52-cabfc286e95f)
+![image](https://github.com/user-attachments/assets/e8db687d-f93b-4951-ac1f-f99c152f127d)
+
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -49,13 +52,20 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+![Quartus II 64-Bit - C__altera_13 0sp1_half_adder - half_adder 08-12-2024 12_39_22 PM](https://github.com/user-attachments/assets/c339dba4-6145-4a9d-b756-8044ec01d94d)
+![Quartus II 64-Bit - C__altera_13 0sp1_half_substracter - half_substracter 08-12-2024 01_07_54 PM](https://github.com/user-attachments/assets/62820276-42fc-42ff-8c56-6831f4be316b)
+/* Program to design a half adder and half substracter circuit and verify its truth table in quartus using Verilog programming.
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-
-Developed by: RegisterNumber:*/
+Developed by:S Sesha Raghavan 
+RegisterNumber:24900320
 
 **RTL Schematic**
+![WhatsApp Image 2024-12-02 at 14 28 44_7ababeb3](https://github.com/user-attachments/assets/6718ea3b-0e98-492b-9ac5-452746967b30)
+![WhatsApp Image 2024-12-02 at 14 28 44_f6570acd](https://github.com/user-attachments/assets/f827c555-2249-400a-bfa5-63fcc03df86b)
 
 **Output/TIMING Waveform**
-
+![WhatsApp Image 2024-12-02 at 14 28 43_0d979251](https://github.com/user-attachments/assets/89475d65-02c7-48ac-8efc-e37607116ab4)
+![WhatsApp Image 2024-12-02 at 14 28 44_a28a5a38](https://github.com/user-attachments/assets/515d5cdb-d3ea-4831-9d0a-7347b4f39576)
 **Result:**
+![Quartus II 64-Bit - C__altera_13 0sp1_half_adder - half_adder 08-12-2024 12_39_33 PM](https://github.com/user-attachments/assets/64201b6e-0661-49e9-b349-bbe75568e820)
+![Quartus II 64-Bit - C__altera_13 0sp1_half_substracter - half_substracter 08-12-2024 01_07_45 PM](https://github.com/user-attachments/assets/924b2239-9574-4b8f-b53c-01d2ff87edb3)
